@@ -1,5 +1,13 @@
 # portfolio
 
+Clone le repository    
+une fois cloner supprime le dossier .git et le fichier README.md     
+
+Créer un repository portfolio sur ton github personnel     
+connecte ton repository portfolio au projet    
+et push le projet portfolio sur ton repository    
+       
+Une fois push:     
 copier le fichier db.php.dist   
 le renommer en db.php      
 completer le fichier db.php avec vos identifiants BDD     
