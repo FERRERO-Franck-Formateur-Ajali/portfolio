@@ -16,6 +16,8 @@ créer la base de donnée porfolio sur phpmyadmin
 importer la BDD du fichier sql/portfolio.sql    
       
 Créer une page register,une page login et une page compte  
+pour chaque page créer une nouvelle branch git      
+        
 sur la page register créer un formulaire pour enregistrer un utilisateur avec le mot de passe encodé      
 sur la page login créer un formulaire pour ce logger      
 sur la page compte:       
